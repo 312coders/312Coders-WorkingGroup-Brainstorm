@@ -5,7 +5,7 @@ This is a space for us to come together and generate new ideas for working group
 **How to Contribute:**
 
 1. **Create a new issue or project:** If you have a new idea for a working group or project, create a new issue and provide a detailed description. See below for my information on setting up a GitHub Project
-3. **Join existing discussions:** Participate in ongoing discussions by adding comments or suggestions. (Discord channel(s) in progress)
+3. **Create or join existing discussions:** Create a new discussion to brainstorm or request feedback for an idea. Or participate in ongoing discussions by adding comments and suggestions. 
 
 
 # Using GitHub Projects for Brainstorming Working Groups
